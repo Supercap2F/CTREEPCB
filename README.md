@@ -1,2 +1,2 @@
 # CTREEPCB
-This is a PCB christmas tree project. 
+This is a PCB Christmas tree project. 
